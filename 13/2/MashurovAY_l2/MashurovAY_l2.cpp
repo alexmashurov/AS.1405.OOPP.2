@@ -1,9 +1,6 @@
 // MashurovAY_l2.cpp : Defines the entry point for the console application.
 //
 
-// VinokurovAF_2.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
 #include "mashurov_bas.h"
 #include "mashurov_heir.h"
