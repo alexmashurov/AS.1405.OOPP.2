@@ -7,5 +7,6 @@ public:
 	~mashurov_heir();
 	void simple_func();
 	void virtual_func();
+	int a;
 };
 
