@@ -4,6 +4,7 @@
 
 mashurov_heir::mashurov_heir()
 {
+	a = 0;
 }
 
 
@@ -12,9 +13,10 @@ mashurov_heir::~mashurov_heir()
 }
 
 void mashurov_heir::simple_func() {
-	std::cout << "simple - heir " << std::endl;
+	std::cout << "simple - heir " << a << std::endl;
 }
 
 void mashurov_heir::virtual_func() {
-	std::cout << "virtual - heir" << std::endl;;
+
+	std::cout << "virtual - heir" << a << std::endl;;
 }
